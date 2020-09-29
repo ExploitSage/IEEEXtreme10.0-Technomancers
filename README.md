@@ -1,5 +1,5 @@
 # IEEEXtreme10.0-Technomancers
-The Technomancers's Challenge Submissions for the IEEEXtreme 10.0 24-Hour Programming Competition.
+Challenge Submissions for the IEEEXtreme 10.0 24-Hour Programming Competition.
 
 The Technomancers is a three student Undergraduate team from Louisiana Tech University.
 
